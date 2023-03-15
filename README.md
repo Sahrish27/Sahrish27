@@ -25,6 +25,7 @@ Here are some ideas to get you started: -->
 <code><img height="30" src="https://blog.knoldus.com/wp-content/uploads/2020/04/Blog9_featureImage.png"></code>
 <code><img height="30" src="https://huddle.eurostarsoftwaretesting.com/wp-content/uploads/2018/10/pm-logo-vert.png"></code>
 <code><img height="30" src="https://i0.wp.com/cdn-images-1.medium.com/max/800/1*KeuQ7uNalz2l4rBOyPAUpg.png?w=1180&ssl=1"></code>
+<code><img height="30" src="https://www.pngitem.com/pimgs/m/6-61727_appium-png-appium-logo-transparent-png.png"></code>
 </br>
 </br>
     
