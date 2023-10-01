@@ -8,7 +8,6 @@ Here are some ideas to get you started: -->
 
 - 🔭 I’m currently working on CRM Website Testing
 - 🌱 I’m currently learning Cypress framework
-- 👯 I’m also exploring Data Engineering field
 - 💬 Ask me about testing
 
 <h3 align="left">Connect with me:</h3>
