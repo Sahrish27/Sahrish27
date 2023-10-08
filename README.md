@@ -1,8 +1,6 @@
 <h1 align="center">Hi there 👋, I am Sahrish Manzoor.</h1>
 <h3 align="center"></h3>
 
-<!-- **Sahrish27/Sahrish27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
-
 <h3 align="left">Connect with me:</h3>
 <a href="https://www.linkedin.com/in/sahrish-manzoor/">
   <img align="left" alt="Sahrish's Linkdein" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
